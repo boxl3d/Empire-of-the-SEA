@@ -1,7 +1,7 @@
 	[
 	{
 		"name": "Guerilla Soldier",
-		"unitType": "Melee",
+		"unitType": "Gunpowder",
 		"replaces": "Infantry",
 		"uniqueTo": "ASEAN",
 		"movement": 2,
